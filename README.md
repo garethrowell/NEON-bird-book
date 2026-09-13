@@ -1,4 +1,4 @@
-# Exploring NEON landbird data with PostgreSQL: 
+# Exploring NEON landbird data with PostgreSQL
 #
 # Contents
 
