@@ -2,9 +2,10 @@
 #
 # Contents
 
-01 Why use SQL and relational databases for data analysis 
+01 Why use SQL and relational databases for ecological 
+data analysis 
 
-02 The NSF NEON ecological program
+02 The NSF NEON landbird ecological program
 
 03 Software tools used here
 
