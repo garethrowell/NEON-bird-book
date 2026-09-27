@@ -7,5 +7,7 @@ as a general programming language, along with its own graphics,
 mathematics, and machine language libraries, SQL lives within
 the confines of relational databases where it gives the coder 
 strict control over massive quantities of data. Unlike R and 
-Python, SQL operates with  mathematical sets of data. 
+Python, SQL operates with logical statements applied to mathematical sets 
+of data. Learning SQL and the basics of relational databases 
+
 
