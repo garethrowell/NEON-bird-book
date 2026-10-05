@@ -14,4 +14,7 @@ data scientists the opportunity to deal very large and complex datasets
 while still maintaining control of workflows. 
 
 There are many different alternative software platforms for working with SQL. 
-In this course, we will focus on PostgreSQL
+In this course, we will focus on PostgreSQL, which is, 
+undoubtedly the most comprehensive open source SQL database platform 
+available. 
+
