@@ -26,7 +26,10 @@ website https://www.postgresql.org. Additional
 binaries for Unix and Linux-like operating systems may also be available in distro specific repositories. 
 All versions of PostgreSQL come with a terminal shell command line interface called psql. I'll be using
 the psql shell environment for most of the coding. That, along with a text editor of your choice, is 
-sufficient to develop the SQL dataabase needed for our analyitcs.
+sufficient to develop all the SQL dataabase features needed for our analyitcs. Finally, I will also be using Python
+to pull data using APIs and for some data visualizations once the core database work is running. Data
+APIs and visualizations could just as easiily be completed using R tidyverse and R ggplot or other data
+science tools.
 
 
 
