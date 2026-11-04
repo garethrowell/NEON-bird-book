@@ -10,7 +10,7 @@ strict control over massive quantities of data. Unlike R and
 Python, SQL operates with logical statements applied to sets 
 of data. 
 Learning SQL and the basics of relational databases gives
-data scientists the opportunity to deal very large and complex datasets 
+data scientists the opportunity to deal with very large and complex datasets 
 while still maintaining control over data quality throughout the workflow.
 
 There are many different alternative software platforms for working with SQL. 
