@@ -1,4 +1,4 @@
-#01 Introduction to PostgreSQL 
+# 01 Introduction to PostgreSQL 
 
 SQL is one of the big three data science coding 
 languages, along with R and Python. While R provides libraries 
@@ -7,18 +7,24 @@ as a general programming language, along with its own graphics,
 mathematics, and machine learning libraries, SQL lives within
 the confines of relational databases where it gives the coder 
 strict control over massive quantities of data. Unlike R and 
-Python, SQL operates with logical statements applied to mathematical sets 
+Python, SQL operates with logical statements applied to sets 
 of data. 
 Learning SQL and the basics of relational databases gives
 data scientists the opportunity to deal very large and complex datasets 
-while still maintaining control of workflows. 
+while still maintaining control of data quality throughout the workflow.
 
 There are many different alternative software platforms for working with SQL. 
-In this course, we will focus on PostgreSQL, which is, 
-undoubtedly the most comprehensive open source SQL database platform 
+In this brief guide, we will focus on PostgreSQL, which is the most comprehensive open source SQL database platform 
 available. 
-For the project described here, I will be using a 
-fraction of the total PostgreSQL functionality
+For the project described here, I will the core database functionality which isa 
+fraction of the total features available in PostgreSQL. 
+In addition, we'll be looking plpgsql, the procedural scripting language that
+comes with PostgreSQL.
+
+
+
+
+
 
 
 
