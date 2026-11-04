@@ -21,7 +21,7 @@ fraction of the total features available in PostgreSQL.
 In addition, we'll be looking at plpgsql, the procedural scripting language that
 comes with PostgreSQL.
 
-Where to start? Binaries for Windows, Mac, and Linux are available at main PostgreSQl 
+Where to start? Binaries for Windows, Mac, and Linux are available at the main PostgreSQl 
 website https://www.postgresql.org. Additional
 binaries for Unix and Linux-like operating systems may also be available in distro specific repositories. 
 All versions of PostgreSQL come with a terminal shell command line interface called psql. I'll be using
