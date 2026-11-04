@@ -21,6 +21,10 @@ fraction of the total features available in PostgreSQL.
 In addition, we'll be looking plpgsql, the procedural scripting language that
 comes with PostgreSQL.
 
+WHere to start? Binaries for Windows, Mac, and Linux are available at https://www.postgresql.org
+website. Additional
+binaries for Unix and Linux-like operating systems may also be available in distro specific repositories. 
+
 
 
 
