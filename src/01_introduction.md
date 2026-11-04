@@ -11,7 +11,7 @@ Python, SQL operates with logical statements applied to sets
 of data. 
 Learning SQL and the basics of relational databases gives
 data scientists the opportunity to deal very large and complex datasets 
-while still maintaining control of data quality throughout the workflow.
+while still maintaining control over data quality throughout the workflow.
 
 There are many different alternative software platforms for working with SQL. 
 In this brief guide, we will focus on PostgreSQL, which is the most comprehensive open source SQL database platform 
