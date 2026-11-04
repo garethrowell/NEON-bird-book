@@ -16,7 +16,7 @@ while still maintaining control of data quality throughout the workflow.
 There are many different alternative software platforms for working with SQL. 
 In this brief guide, we will focus on PostgreSQL, which is the most comprehensive open source SQL database platform 
 available. 
-For the project described here, I will the core database functionality which isa 
+For the project described here, I will use the core database functionality which is just a 
 fraction of the total features available in PostgreSQL. 
 In addition, we'll be looking plpgsql, the procedural scripting language that
 comes with PostgreSQL.
