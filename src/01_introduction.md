@@ -1,4 +1,4 @@
-p# 01 Introduction to PostgreSQL 
+#01 Introduction to PostgreSQL 
 
 SQL is one of the big three data science coding 
 languages, along with R and Python. While R provides libraries 
