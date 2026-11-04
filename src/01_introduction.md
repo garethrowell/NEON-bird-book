@@ -18,7 +18,7 @@ In this brief guide, we will focus on PostgreSQL, which is the most comprehensiv
 available. 
 For the project described here, I will use the core database functionality which is just a 
 fraction of the total features available in PostgreSQL. 
-In addition, we'll be looking plpgsql, the procedural scripting language that
+In addition, we'll be looking at plpgsql, the procedural scripting language that
 comes with PostgreSQL.
 
 Where to start? Binaries for Windows, Mac, and Linux are available at main PostgreSQl 
