@@ -24,7 +24,7 @@ comes with PostgreSQL.
 Where to start? Binaries for Windows, Mac, and Linux are available at the main PostgreSQl 
 website https://www.postgresql.org. Additional
 binaries for Unix and Linux-like operating systems may also be available in distro specific repositories. 
-All versions of PostgreSQL come with a terminal shell command line interface called psql. I'll be using
+All versions of PostgreSQL come with a terminal shell called psql that has a command line interface. I'll be using
 the psql shell environment for most of the coding. That, along with a text editor of your choice, is 
 sufficient to develop all the SQL database features needed for our analyitcs. Finally, I will also be using Python
 to pull data using APIs and for some data visualizations once the core database work is running. Data
