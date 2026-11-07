@@ -28,7 +28,7 @@ All versions of PostgreSQL come with a terminal shell called psql which has a co
 the psql shell environment for most of the coding. That, along with a text editor of your choice, is 
 sufficient to develop all the SQL database features needed for our analysis. Finally, I will also be using Python
 to pull data using APIs and for some data visualizations once the core database work is running. Data
-APIs and visualizations could alternatively be managed using data science tools in R.
+APIs and visualizations could alternatively be managed in R.
 
 
 
